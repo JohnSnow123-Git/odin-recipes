@@ -1,0 +1,1 @@
+This recipe page is just a simple compliation of all of the basic foundational skills I have learned thusfar in HTML. I'm excited to dive into webdevelopment for the first time thanks to the Odin Project and see what else is coming in the future!
